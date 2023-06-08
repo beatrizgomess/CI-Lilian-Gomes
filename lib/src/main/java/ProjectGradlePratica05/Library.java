@@ -5,7 +5,7 @@ package ProjectGradlePratica05;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return false;
+        return true;
     }
     
     public String LibaryModified() {
