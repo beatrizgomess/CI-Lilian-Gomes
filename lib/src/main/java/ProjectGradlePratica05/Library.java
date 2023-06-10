@@ -9,6 +9,6 @@ public class Library {
     }
     
     public String LibaryModified() {
-    	return "fazendo mudanças";
+    	return "fazendo mudancas";
     }
 }
