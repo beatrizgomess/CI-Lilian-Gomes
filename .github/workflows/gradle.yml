@@ -18,8 +18,9 @@ permissions:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
+    container:
+      image: docker://beatrizgomesx/gcms-pratica06:gcms-docker06
 
     steps:
     - uses: actions/checkout@v3
